@@ -6,7 +6,7 @@
 	<a href="https://www.linkedin.com/in/moingshaikh"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-
+![Moin's github stats](https://github-readme-stats.vercel.app/api?username=moingshaikh&show_icons=true&hide=[%22issues%22])
 
 <!--
 **moingshaikh/moingshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
